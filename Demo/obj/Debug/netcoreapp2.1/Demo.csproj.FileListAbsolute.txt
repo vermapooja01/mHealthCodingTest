@@ -1,0 +1,12 @@
+F:\Learning\Project\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.deps.json
+F:\Learning\Project\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.json
+F:\Learning\Project\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.runtimeconfig.dev.json
+F:\Learning\Project\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.dll
+F:\Learning\Project\Demo\Demo\bin\Debug\netcoreapp2.1\Demo.pdb
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csprojAssemblyReference.cache
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.csproj.CoreCompileInputs.cache
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfoInputs.cache
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.AssemblyInfo.cs
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.dll
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.pdb
+F:\Learning\Project\Demo\Demo\obj\Debug\netcoreapp2.1\Demo.genruntimeconfig.cache
